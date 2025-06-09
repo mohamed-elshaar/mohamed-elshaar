@@ -57,3 +57,9 @@ My name is Mohamed Samy ElShaar and I'm a Senior Software Engineer from Egypt sp
         </a>
     </div>
 </body>
+<br/>
+<br/>
+<p><img align="left "src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elshaar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/></p>
+<p><img align="left "src="https://github-readme-stats.vercel.app/api?username=mohamed-elshaar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
+<p><img align="left "src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-elshaar&theme=tokyonight&hide_border=false"/></p>
+
